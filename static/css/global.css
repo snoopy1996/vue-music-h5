@@ -1,0 +1,31 @@
+input:-webkit-autofill,
+textarea:-webkit-autofill,
+select:-webkit-autofill {
+  background-color: rgb(255, 255, 255) !important;
+  background-image: none !important;
+  color: rgb(0, 0, 0) !important;
+}
+.musicList-class {
+  height: 60vh !important;
+  top: 40vh;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+.editProfileDialog {
+  height: 80vh !important;
+  top: 20vh;
+}
+.mu-form-item__focus .mu-form-item-label {
+  color: #e5463b;
+}
+.mu-picker {
+  color: #e5463b;
+}
+.mu-dialog-body {
+  max-height: 100vh !important;
+}
+.back-fab {
+  position: fixed;
+  right: 16px;
+  bottom: 16px;
+}
