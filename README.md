@@ -6,7 +6,7 @@ Vue 仿网易云音乐，移动版。（可通过 cordova 直接打包成 apk）
 
 ![](https://ws1.sinaimg.cn/large/0064OUUqly1ftogxmgtk0j30u01hcqv5.jpg)
 ![](https://ws1.sinaimg.cn/large/0064OUUqly1ftogxjro2tj30u01hcwur.jpg)
-![](https://ws1.sinaimg.cn/large/0064OUUqly1ftogxjro2tj30u01hcwur.jpg)
+![](https://ws1.sinaimg.cn/large/0064OUUqly1ftogxgolmhj30u01hckg2.jpg)
 ![](https://ws1.sinaimg.cn/large/0064OUUqly1ftogxdfrmej30u01hc7dx.jpg)
 
 ## 在线预览地质
